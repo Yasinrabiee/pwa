@@ -1,0 +1,30 @@
+{
+  "name": "Note App",
+  "short_name": "Note App",
+  "start_url": "https://yasinrabiee.github.io/note-app/",
+  "scope": "https://yasinrabiee.github.io/note-app/",
+  "display": "standalone",
+  "background_color": "#ECEFF1",
+  "theme_color": "#ECEFF1",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./schedule.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any"
+    },
+    {
+      "src": "./schedule.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "./schedule.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}
