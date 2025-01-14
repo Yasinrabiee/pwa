@@ -177,6 +177,10 @@ input[type="checkbox"] {
 	color: #FFEB3B;
 }
 
+.active {
+	
+}
+
 .section__edit {
 	z-index: 99999;
 	width: 300px;
