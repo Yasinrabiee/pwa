@@ -1,8 +1,8 @@
 {
   "name": "Note App",
   "short_name": "Note App",
-  "start_url": "https://yasinrabiee.github.io/note-app/",
-  "scope": "https://yasinrabiee.github.io/note-app/",
+  "start_url": "https://yasinrabiee.github.io/pwa/",
+  "scope": "https://yasinrabiee.github.io/pwa/",
   "display": "standalone",
   "background_color": "#ECEFF1",
   "theme_color": "#ECEFF1",
